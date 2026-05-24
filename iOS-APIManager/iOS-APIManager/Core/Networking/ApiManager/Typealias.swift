@@ -2,7 +2,7 @@
 //  Typealias.swift
 //  fengshui-ios
 //
-//  Created by Chhan Sophearith  on 23/5/26.
+//  Created by Sophearath.chhan  on 23/5/26.
 //
 
 public typealias Parameters = [String: Any]
