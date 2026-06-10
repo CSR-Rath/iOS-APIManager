@@ -48,7 +48,7 @@ final class APIManager {
             }
             
 
-            // MARK: Handler rrefresh token
+            // MARK: Handler refresh token
             if httpResponse.statusCode == 401 {
                 
                 if endpoint == .myAPIRefresh {
@@ -247,11 +247,3 @@ private extension APIManager {
         }
     }
 }
-
-
-
-
-
-
-
-
